@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162494442630",
+    "project_id": "photo-sharing-f5b8c",
+    "storage_bucket": "photo-sharing-f5b8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162494442630:android:a86580ab2ffc852a063507",
+        "android_client_info": {
+          "package_name": "md.meral.firebasephotosharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162494442630-no02oqmd4b6u1edrksbmh238ejkccpb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO6p4m9rNmZgZNmAwu0SlaLFw71Jlrc_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162494442630-no02oqmd4b6u1edrksbmh238ejkccpb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

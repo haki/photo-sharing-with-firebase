@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Firebase Photo Sharing</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="email">Email</string>
+    <string name="share_photo">Share Photo</string>
+    <string name="sign_out">Sign out</string>
+    <string name="send">Send</string>
+    <string name="comment">Comment</string>
+</resources>
